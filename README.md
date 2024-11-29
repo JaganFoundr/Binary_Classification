@@ -107,7 +107,7 @@ class BinaryModel(nn.Module):
 1. **Clone the Repository:**  
    ```bash
    git clone https://github.com/JaganFoundr/Binary_Classification.git
-   cd binary-classification-pytorch
+   cd Binary_classification
    ```
 
 2. **Install Dependencies:**  
